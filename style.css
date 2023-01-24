@@ -656,8 +656,11 @@ html{
         height: 100vh;
         margin-top:260%;
     }
-    .footter{
-        margin-top: 290%;
+    .footer{
+        margin-top: 100%;
     }
-}
+    .footter{
+        margin-top:100%
+    }
+
     
